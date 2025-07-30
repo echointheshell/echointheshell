@@ -12,11 +12,11 @@ I'm always open to feedback, collaboration, and connecting with fellow cybersecu
 - **Aegis Corporation Lab**: A cybersecurity home lab featuring monitoring, detection and analysis, as well as threat simulation
 
 ### 🎯 What I'm Learning
-- [ ] Security analyst fundamentals
-- [ ] Developing and testing security tools
-- [ ] Identifying and analysing malicous network traffic
-- [ ] Developing and practicing incident response skills
-- [ ] Hardening endpoints and services
+- Security analyst fundamentals
+- Developing and testing security tools
+- Identifying and analysing malicous network traffic
+- Developing and practicing incident response skills
+- Hardening endpoints and services
 
 ### 🎖️ Certifications and Courses
 - CompTIA Security+
@@ -25,4 +25,4 @@ I'm always open to feedback, collaboration, and connecting with fellow cybersecu
 - Microsoft AZ-900 (In Progress)
 
 ### 🤝 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/mlotter
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlotter)
