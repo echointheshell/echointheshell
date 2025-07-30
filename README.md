@@ -25,4 +25,4 @@ I'm always open to feedback, collaboration, and connecting with fellow cybersecu
 - Microsoft AZ-900 (In Progress)
 
 ### 🤝 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlotter)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlotter)
