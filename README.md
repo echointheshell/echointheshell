@@ -1,6 +1,6 @@
 # Hi there, I'm Michael 👋
 
-## 🛡️ Cybersecurity Enthusiast building on years of systems, networks, and security administration
+## 🛡️ Cybersecurity Enthusiast building on systems, networks, and security administration
 
 Welcome to my GitHub! I'm passionate about all facets of cybersecurity and enjoy learning through hands-on, practical projects.
 This GitHub serves as a showcase of what I'm currently working on and hopefully inspires others to dive into the practical side of security!
@@ -25,4 +25,4 @@ I'm always open to feedback, collaboration, and connecting with fellow cybersecu
 - Microsoft AZ-900 (In Progress)
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlotter)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlotter)
