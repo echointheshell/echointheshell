@@ -9,7 +9,7 @@ I feel that my technical experience, as well as touching on risk, compliance, an
 I'm always open to feedback, collaboration, and connecting with fellow cybersecurity professionals and enthusiasts. Happy exploring! 🚀
 
 ### 📚 Current Projects
-- [**Aegis Corporation SOC Lab**](https://github.com/echointheshell/aegis-corp-soc-lab/tree/main?tab=readme-ov-file#%EF%B8%8F-aegis-corporation-lab): A cybersecurity home lab featuring monitoring, detection and analysis, as well as threat simulation
+- [**Aegis Corporation SOC Lab:**](https://github.com/echointheshell/aegis-corp-soc-lab) A cybersecurity home lab featuring monitoring, detection and analysis, as well as threat simulation
 
 ### 🎯 What I'm Learning
 - Security analyst fundamentals
