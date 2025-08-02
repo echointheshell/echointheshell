@@ -3,8 +3,12 @@
 ## 🛡️ Cybersecurity Enthusiast building on systems, networks, and security administration
 
 Welcome to my GitHub! I'm passionate about all facets of cybersecurity and enjoy learning through hands-on, practical projects.
+
+
 This GitHub serves as a showcase of what I'm currently working on and hopefully inspires others to dive into the practical side of security!
 My goal is to leverage my experience with systems and networks in the security context, fast-tracking my learning and abilities to transition into a security analyst role.
+
+
 I feel that my technical experience, as well as touching on risk, compliance, and process development, gives me a unique and exciting foundation to build upon.
 I'm always open to feedback, collaboration, and connecting with fellow cybersecurity professionals and enthusiasts. Happy exploring! 🚀
 
