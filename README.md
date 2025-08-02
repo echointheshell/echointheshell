@@ -10,7 +10,10 @@ My goal is to leverage my experience with systems and networks in the security c
 
 
 I feel that my technical experience, as well as touching on risk, compliance, and process development, gives me a unique and exciting foundation to build upon.
-I'm always open to feedback, collaboration, and connecting with fellow cybersecurity professionals and enthusiasts. Happy exploring! 🚀
+I'm always open to feedback, collaboration, and connecting with fellow cybersecurity professionals and enthusiasts. 
+
+
+Happy exploring! 🚀
 
 ### 📚 Current Projects
 - [**Aegis Corporation SOC Lab:**](https://github.com/echointheshell/aegis-corp-soc-lab) A cybersecurity home lab featuring monitoring, detection and analysis, as well as threat simulation
