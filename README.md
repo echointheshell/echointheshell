@@ -24,6 +24,8 @@ Happy exploring! 🚀
 - Identifying and analysing malicous network traffic
 - Developing and practicing incident response skills
 - Hardening endpoints and services
+- Automation of security and infrastructure deployments
+- Using and applying cloud technologies
 
 ### 🎖️ Certifications and Courses
 - CompTIA Security+
